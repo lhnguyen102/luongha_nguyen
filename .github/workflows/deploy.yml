@@ -20,7 +20,10 @@ jobs:
           node-version: 16
 
       - name: Install dependencies
-        run: npm install --legacy-peer-deps
+        run: |
+          npm install -D tailwindcss
+          npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+          
 
       - name: Build project
         run: |
