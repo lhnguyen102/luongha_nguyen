@@ -1,8 +1,21 @@
-# React + Vite
+# Luong-Ha Nguyen's Portfolio 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo contains the React code for Luong-Ha's Nguyen personal website https://lhnguyen102.github.io/luonghanguyen/  
 
-Currently, two official plugins are available:
+## Installation 
+Install tailwindcss and dependencies 
+```shell
+npm install -D tailwindcss
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Runner
+Run the following command and click on the link to open locally the website  
+```shell
+npm run dev
+```
+
+
+## Acknowledgement
+
+The code is derived from [the repository](https://github.com/adrianhajdin/project_3D_developer_portfolio) by Adrian Hajdin - JS Mastery
