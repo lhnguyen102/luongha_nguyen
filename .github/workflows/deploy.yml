@@ -23,7 +23,11 @@ jobs:
         uses: bahmutov/npm-install@v1
 
       - name: Build project
-        run: npm run build
+        run: |
+          npm install --legacy-peer-deps
+          npm run build
+          npm run typecheck
+          npm run test
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v2
