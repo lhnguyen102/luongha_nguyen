@@ -15,7 +15,7 @@ const PublicationCard = ({index, title, authors, year, journal, link }) =>{
                     scale: 1,
                     speed: 450,
                 }}
-                className="bg-tertiary p-5 rounded-2xl sm:w-[360px]"
+                className="bg-tertiary p-5 rounded-2xl sm:w-[360px] relative overflow-hidden"
             >
                 <div className="mt-5]">
                     <h3 className="text-white font-bold text-[18px]">{title}</h3>
