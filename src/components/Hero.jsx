@@ -12,7 +12,7 @@ const Hero = () => {
         </div>
         
         <div className={`${styles.heroHeadText} text-white`}>
-          <h1 className='text-[5.5vw] lg:h-[140px] lg:text-[70px]'>Hi, I'm <span className='text-[#008bff]'> Luong-Ha</span></h1>
+          <h1 className='text-[5.5vw] lg:h-[140px] lg:text-[70px]'>Hi, I'm <span className='blue-text-gradient'> Luong-Ha</span></h1>
           <p className={`${styles.heroSubText} text-[5vw] mt-2 text-white-100 lg:leading-[45px]`}> 
             I develop AI/ML applications and actively researching uncertainty modeling methods for deep neural networks
           </p>

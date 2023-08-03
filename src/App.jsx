@@ -21,6 +21,9 @@ const App = () => {
           {/* <StarsCanvas /> */}
         </div>
         <Network />
+        <footer>
+          <p className="ml-5 mb-12 text-secondary text=[12px]">&copy;2023 Luong-Ha Nguyen. Some rights reserved.</p>
+        </footer>
       </div>
       </BrowserRouter>
     </div>
