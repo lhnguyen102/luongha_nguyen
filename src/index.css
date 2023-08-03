@@ -233,3 +233,7 @@
   }
 }
 
+.violet-blue-gradient {
+  @apply bg-gradient-to-r from-purple-300 via-blue-400 to-blue-300 bg-clip-text text-transparent;
+}
+
