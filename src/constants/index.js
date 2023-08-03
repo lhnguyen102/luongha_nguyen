@@ -130,7 +130,7 @@ import {
       points: [
         "Design, develop, and maintain machine learning pipelines.",
         "Train and operate various models such as time series forecasting, anomaly detection, and reinforcement learning.",
-        "Incorporate human feedback and demonstrations to refine models",
+        "Incorporate human feedback and demonstrations to refine models.",
         "Contribute to and drive research initiatives both internally and with external partners.",
       ],
     },
@@ -152,8 +152,8 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2022 - Present",
       points: [
-        "Develop an efficient learning paradigm for deep neural networks aimed at improving accuracy and training time",
-        "Lead the development of the open-source software, pyTAGI, a Python interface connecting to the C++/CUDA backend (cuTAGI) for Bayesian neural networks",
+        "Develop an efficient learning paradigm for deep neural networks aimed at improving accuracy and training time.",
+        "Lead the development of the open-source software, pyTAGI, a Python interface connecting to the C++/CUDA backend (cuTAGI) for Bayesian neural networks.",
       ],
     },
     {
@@ -164,7 +164,7 @@ import {
       date: "November 2019 - September 2021",
       points: [
         "Formulated a theoretical approach for modeling uncertainty in neural networks.",
-        "Led the development of the C++/CUDA open-source software cuTAGI for modelling uncertaities in deep neural networks",
+        "Led the development of the C++/CUDA open-source software cuTAGI for modelling uncertaities in deep neural networks.",
         "Implemented and tested the proposed approach on various learning tasks.",
       ],
     },
