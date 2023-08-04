@@ -62,7 +62,7 @@ const About = () => {
       >
         I am pasionate about developing & building tools that help people make informed decisions using all the available data. 
         I'm also keen on creating an AI/ML framework that's not only quick in training & inference, but also reliable in its outcomes.
-        In the AI/ML field, knowing lots of different things is really important. For instance, finding solutions to specific problems
+        In the AI/ML field, being a great problem-solver requires a diverse set of skills. For instance, finding solutions to specific problems
         requires careful thought and research.
       </motion.p>
 
