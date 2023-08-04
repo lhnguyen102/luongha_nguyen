@@ -1,5 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Projects, Network, Publications, StarsCanvas } from './components';
+import { styles } from "./styles";
 const App = () => {
 
   return (
@@ -21,8 +22,8 @@ const App = () => {
           {/* <StarsCanvas /> */}
         </div>
         <Network />
-        <footer>
-          <p className="ml-5 mb-12 text-secondary text=[12px]">&copy;2023 Luong-Ha Nguyen. Some rights reserved.</p>
+        <footer  style={{ padding: "10px" }}>
+          <p className="ml-5 mb-12 text-white-100 text=[8px]">&copy;2023 Luong-Ha Nguyen. Some rights reserved.</p>
         </footer>
       </div>
       </BrowserRouter>
