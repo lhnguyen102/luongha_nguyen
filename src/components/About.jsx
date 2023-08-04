@@ -69,7 +69,7 @@ const About = () => {
         variants={fadeIn("","", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Also, it's important to know how to teach an AI/ML model on a large scale. 
+        Also, it's important to know how to train and maintain an AI/ML model on a large scale. 
         This means you need to build a systematic ML infrastructure. 
         Plus, we have to make sure our solutions are easy for people to use. 
         That means we need to design it in a way that's simple and user-friendly.
