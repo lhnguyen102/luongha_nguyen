@@ -1,6 +1,6 @@
 # Luong-Ha Nguyen's Portfolio 
 
-This repo contains the React code for Luong-Ha's Nguyen personal website https://www.hazone.me 
+This repo contains the React code for Luong-Ha Nguyen's personal website https://www.hazone.me 
 
 ## Installation 
 Install tailwindcss and dependencies 
