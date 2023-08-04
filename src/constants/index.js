@@ -130,7 +130,7 @@ import {
       points: [
         "Design, develop, and maintain machine learning pipelines.",
         "Train and operate various models such as time series forecasting, anomaly detection, and reinforcement learning.",
-        "Incorporate human feedback and demonstrations to refine models.",
+        "Incorporate human feedback and demonstrations to finetune models.",
         "Contribute to and drive research initiatives both internally and with external partners.",
       ],
     },
