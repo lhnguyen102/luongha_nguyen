@@ -80,7 +80,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         To me, this job is like solving one puzzle after another. 
-        It makes me want to learn more, take on more jobs, and feel fullfiled about the work I do.
+        It makes me want to learn more, take on more jobs, and feel fullfilled about the work I do.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
