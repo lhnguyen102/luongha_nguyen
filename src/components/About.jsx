@@ -43,24 +43,43 @@ const About = () => {
         variants={fadeIn("","", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am an AI/ML app builder with expertise in C/C++, CUDA, Python, and PyTorch.
-        I want to build decision-making frameworks that  empower stakeholders to make the 
-        informed decisions by utilizing all available data. For this purpose, I am currently working on an efficient learning
-        method for deep neural networks that has potential to use of less data, reduce training time, and crucially, 
-        provide uncertainties of the outcomes. This aspect of uncertainty is essential for informed decision-making
-        processes.
+        Currently, I am developing a framework that enables humans and AI to team up and tackle real-worlds challenges at AI Redefined.
       </motion.p>
 
       <motion.p
         variants={fadeIn("","", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        In AI/ML field, being a great problem-solver means you have to know lots of different things. 
-        We need to be skilled at finding solutions to specific issues through careful thought and research. 
-        It's also important to learn how to train a AI/ML model at scale, 
-        and this requires building a systematic ML infrastructure. 
-        Additionally, we need to make sure people find our solution easy to use, which means designing it in a way that's 
-        simple and user-friendly. This job is like solving one puzzle after another. 
+        Outside of my full-time committments, I work on developing an efficient learning
+        method for deep neural networks that has potential to use of less data, reduce training time, 
+        while providing outcome uncertainties vital for informed decision-making.
+      </motion.p>
+
+      <motion.p
+        variants={fadeIn("","", 0.1, 1)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
+        I am pasionate about developing & building decision-making frameworks that  empower stakeholders to make the 
+        informed decisions by utilizing all available data. In the AI/ML field, being great at solving problems means
+        you need to know a lot of different things.  You have to be good at figuring out solutions to specific problems
+        through careful thinking and research.
+      </motion.p>
+
+      <motion.p
+        variants={fadeIn("","", 0.1, 1)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
+        Also, it's important to know how to teach an AI/ML model on a large scale. 
+        This means you need to build a systematic ML infrastructure. 
+        Plus, we have to make sure our solutions are easy for people to use. 
+        That means we need to design it in a way that's simple and user-friendly.
+      </motion.p>
+
+      <motion.p
+        variants={fadeIn("","", 0.1, 1)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
+        To me, this job is like solving one puzzle after another. 
         It makes me want to learn more, take on more jobs, and feel fullfiled about the work I do.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
