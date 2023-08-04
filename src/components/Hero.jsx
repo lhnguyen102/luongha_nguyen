@@ -12,8 +12,8 @@ const Hero = () => {
         </div>
         
         <div className={`${styles.heroHeadText} text-white`}>
-          <h1 className='text-[4.5vw] lg:h-[110px] lg:text-[50px]'>Hi there, I'm <span className='blue-text-gradient'> Luong-Ha</span></h1>
-          <p className={`${styles.heroSubText} text-[4vw] mt-2 text-white-100 lg:leading-[45px]`}> 
+          <h1 className='text-[6.5vw] md:text-[3.5vw] lg:text-[4vw] g:h-[110px] lg:text-[50px]'>Hi there, I'm <span className='blue-text-gradient'> Luong-Ha</span></h1>
+          <p className={`${styles.heroSubText} text-[3.5vw] mt-2 text-white-100 lg:leading-[45px]`}> 
             I develop AI/ML applications and actively researching uncertainty modeling methods for deep neural networks
           </p>
         </div>
