@@ -135,17 +135,6 @@ import {
       ],
     },
     {
-      title: "AI/ML Developer",
-      company_name: "Shearwater Aerospace",
-      icon: shearwater,
-      iconBg: "#E6DEDD",
-      date: "September 2021 - June 2022",
-      points: [
-        "Designed and implemented a machine learning-based path planning system for Unmanned Aerial Vehicles (UAVs), significantly improving flight efficiency.",
-        "Developed autonomous control system based on reinforcement learning for Unmanned Aerial Vehicles.",
-      ],
-    },
-    {
       title: "AI/ML Research Associate",
       company_name: "Polytechnique Montreal",
       icon: polytechnique,
@@ -156,6 +145,18 @@ import {
         "Lead the development of the open-source software, pyTAGI, a Python interface connecting to the C++/CUDA backend (cuTAGI) for Bayesian neural networks.",
       ],
     },
+    {
+      title: "AI/ML Developer",
+      company_name: "Shearwater Aerospace",
+      icon: shearwater,
+      iconBg: "#E6DEDD",
+      date: "September 2021 - June 2022",
+      points: [
+        "Designed and implemented a machine learning-based path planning system for Unmanned Aerial Vehicles (UAVs), significantly improving flight efficiency.",
+        "Developed autonomous control system based on reinforcement learning for Unmanned Aerial Vehicles.",
+      ],
+    },
+    
     {
       title: "Postdoctoral Researcher",
       company_name: "Polytechnique Montreal",
