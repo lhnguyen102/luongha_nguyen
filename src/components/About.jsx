@@ -61,9 +61,9 @@ const About = () => {
         variants={fadeIn("","", 0.1, 0.1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am pasionate about developing & building decision-making frameworks that  empower stakeholders to make the 
-        informed decisions by utilizing all available data. In the AI/ML field, knowing lots of different things is really important. 
-        Finding solutions to specific problems requires careful thought and research.
+        I am pasionate about developing & building tools that help people make informed decisions using all the available data. 
+        I'm also keen on creating an AI/ML framework that's not only quick in training and making inferences, but also reliable in its outcomes.
+        In the AI/ML field, knowing lots of different things is really important. Finding solutions to specific problems requires careful thought and research.
       </motion.p>
 
       <motion.p
