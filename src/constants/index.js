@@ -199,7 +199,7 @@ import {
     {
       name: "cuTAGI",
       description:
-        "cuTAGI is an open-source library that applies deep neural networks in C++/CUDA. It quantifies uncertainty in deep neural networks for supervised, unsupervised, and reinforcement learning tasks, enhancing output reliability and accuracy",
+        "cuTAGI: An open-source Bayesian neural network developed in C++/CUDA. It quantifies uncertainty in deep neural networks for supervised, unsupervised, and reinforcement learning tasks, enhancing output reliability and accuracy",
       tags: [
         {
           name: "C++",
