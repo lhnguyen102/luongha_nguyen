@@ -59,7 +59,7 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className ="w-7 h-7 object-contain"/>
-          <p className='text-white text-[18px] font-bold cursor-pointer flex'> Luong-Ha Nguyen |&nbsp; <span className='lg:block hidden orange-text-gradient'> AI Developer</span></p>
+          <p className='text-white text-[18px] font-bold cursor-pointer flex'> Luong-Ha Nguyen &nbsp; <span className='lg:block hidden orange-text-gradient'> | AI Developer</span></p>
         </Link>
         <ul className='list-none hidden lg:flex flex-row gap-10'>
           {navLinks.map((link) => (
