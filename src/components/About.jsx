@@ -13,7 +13,10 @@ const About = () => {
     return (
       <Tilt className='xs:w-[250px] w-full'>
         <motion.div
-          variants={fadeIn("right", "spring", 0.1 * index, 0.1)}
+          initial="hidden"
+          animate="show"
+          exit="hidden"
+          variants={fadeIn("right", "spring", 0.5 * index, 0.75)}
           className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
         >
           <div
@@ -35,20 +38,31 @@ const About = () => {
   }
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <motion.div 
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        variants={textVariant()}
+      >
         {/* <p className={styles.sectionSubText}>Introduction</p> */}
         <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
 
       <motion.p
-        variants={fadeIn("","", 0.1, 0.1)}
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         Currently,  I'm working on a framework that helps humans and AI work together to solve real-world problems at <Link to="https://ai-r.com" target="_blank" rel="noopener noreferrer" style={styles.greenLinkStyle}>AI Redefined</Link>.
       </motion.p>
 
       <motion.p
-        variants={fadeIn("","", 0.1, 0.1)}
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         Outside of my full-time commitments, I'm working on developing an efficient learning method for deep neural networks 
@@ -57,7 +71,10 @@ const About = () => {
       </motion.p>
 
       <motion.p
-        variants={fadeIn("","", 0.1, 0.1)}
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am pasionate about developing & building tools that help people make informed decisions using all the available data. 
@@ -65,7 +82,10 @@ const About = () => {
       </motion.p>
 
       <motion.p
-        variants={fadeIn("","", 0.1, 0.1)}
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         In the AI/ML field, being a great problem-solver requires a diverse set of skills. For instance, finding solutions to specific problems
@@ -75,7 +95,10 @@ const About = () => {
       </motion.p>
 
       <motion.p
-        variants={fadeIn("","", 0.1, 0.1)}
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         To me, this job is like solving one puzzle after another. 

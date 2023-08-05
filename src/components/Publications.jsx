@@ -8,7 +8,12 @@ import { urllink } from "../assets";
 
 const PublicationCard = ({index, title, authors, year, journal, link }) =>{
     return (
-        <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
+        <motion.div 
+            initial="hidden"
+            animate="show"
+            exit="hidden"
+            variants={fadeIn("up", "spring", index * 0.5, 0.75)}
+        >
             <Tilt
                 options={{
                     max: 45,
@@ -40,7 +45,12 @@ const PublicationCard = ({index, title, authors, year, journal, link }) =>{
 const Publications = () => {
   return (
     <>
-        <motion.div variants={textVariant()}>
+        <motion.div 
+            initial="hidden"
+            animate="show"
+            exit="hidden"
+            variants={textVariant()}
+        >
             <h2 className={styles.sectionHeadText}>Publication</h2>
         </motion.div>
         <div className="mt-20 flex flex-wrap gap-7">
