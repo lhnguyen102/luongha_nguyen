@@ -23,7 +23,7 @@ const App = () => {
         </div>
         <Network />
         <footer  style={{ padding: "10px" }}>
-          <p className="ml-5 mb-12 text-white-100 text=[8px]">&copy;2023 Luong-Ha Nguyen. Some rights reserved.</p>
+          <p className="ml-5 mb-12 text-white-100 text-[12px]">&copy;2023 Luong-Ha Nguyen. Some rights reserved.</p>
         </footer>
       </div>
       </BrowserRouter>
