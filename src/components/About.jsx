@@ -62,17 +62,16 @@ const About = () => {
       >
         I am pasionate about developing & building tools that help people make informed decisions using all the available data. 
         I'm also keen on creating an AI/ML framework that's not only quick in training & inference, but also reliable in its outcomes.
-        In the AI/ML field, being a great problem-solver requires a diverse set of skills. For instance, finding solutions to specific problems
-        requires careful thought and research.
       </motion.p>
 
       <motion.p
         variants={fadeIn("","", 0.1, 0.1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Also, it's crucial to understand how to train and maintain AI/ML models at scale, which requires a well-structured, 
+        In the AI/ML field, being a great problem-solver requires a diverse set of skills. For instance, finding solutions to specific problems
+        requires careful thought and research. Also, it's crucial to understand how to train and maintain AI/ML models at scale, which requires a well-structured, 
         general AI/ML infrastructure. Moreover, ensuring the developed solutions are user-friendly means aiming for
-         a design that's simple and easy to use.
+        a design that's simple and easy to use.
       </motion.p>
 
       <motion.p
