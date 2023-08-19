@@ -32,6 +32,7 @@ import machine_learning from "./machine-learning.png";
 import neural from "./neural.png";
 import python from "./python.png";
 import cplusplus from "./c-.png"
+import tftforecast from './tft_forecast.gif'
 
 import urllink from "./link.png"
 
@@ -71,4 +72,5 @@ export {
   openbdlm,
   urllink,
   myphoto,
+  tftforecast,
 };
