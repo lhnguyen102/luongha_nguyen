@@ -21,6 +21,7 @@ import {
     cutagi,
     hsi,
     openbdlm,
+    tftforecast,
   } from "../assets";
   
   export const navLinks = [
@@ -216,6 +217,19 @@ import {
       ],
       image: cutagi,
       source_code_link: "https://github.com/lhnguyen102/cuTAGI",
+    },
+    {
+      name: "Transformer Temporal Fusion",
+      description:
+        "Implementation of the Transformer Temporal Fusion (TFT) method, leveraging self-attention mechanisms for enhanced accuracy and detailed explainability in time series forecasting",
+      tags: [
+        {
+          name: "Python",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tftforecast,
+      source_code_link: "https://github.com/lhnguyen102/tft-sgd",
     },
     {
       name: "Hidden-States Inference ",
