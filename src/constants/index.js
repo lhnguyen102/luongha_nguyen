@@ -20,6 +20,7 @@ import {
     polytechnique,
     cutagi,
     hsi,
+    hsigif,
     openbdlm,
     tftforecast,
   } from "../assets";
@@ -245,7 +246,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: hsi,
+      image: hsigif,
       source_code_link: "https://github.com/CivML-PolyMtl/TAGI_HS_Inference_JMLR",
     },
     {

@@ -26,6 +26,7 @@ import polytechnique from "./company/polytechnique.png";
 
 import cutagi from "./cutagi.png";
 import hsi from "./hsi.png";
+import hsigif from "./hsi_gif.gif";
 import openbdlm from "./openbdlm.png";
 
 import machine_learning from "./machine-learning.png";
@@ -69,6 +70,7 @@ export {
   polytechnique,
   cutagi,
   hsi,
+  hsigif,
   openbdlm,
   urllink,
   myphoto,
