@@ -65,9 +65,9 @@ const About = () => {
         variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Outside of my full-time commitments, I'm working on developing an efficient learning method for deep neural networks 
-        that potentially uses less data, reduces training time, and provides outcome uncertainties vital for 
-        informed decision-making. This work is a collaboration with a research team at <Link to="https://miquelflorensa.github.io" target="_blank" rel="noopener noreferrer" style={styles.blueLinkStyle}>BayesWorks</Link>.
+        Outside of my full-time commitments, I'm working on developing an efficient learning method for deep neural networks
+        that potentially uses less data, reduces training time, and provides outcome uncertainties vital for informed decision-making. 
+        This work is a collaboration with a research team at <Link to="https://miquelflorensa.github.io" target="_blank" rel="noopener noreferrer" style={styles.blueLinkStyle}>BayesWorks</Link>.
       </motion.p>
 
       <motion.p
@@ -77,8 +77,8 @@ const About = () => {
         variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am pasionate about developing & building tools that help people make informed decisions using all the available data. 
-        I'm also keen on creating an AI/ML framework that's not only quick in training & inference, but also reliable in its outcomes.
+        I am passionate about developing & building tools that help people make informed decisions using all the available data. 
+        I'm also keen on creating an AI/ML framework that's not only quick in training and inference but also reliable in its outcomes.
       </motion.p>
 
       <motion.p
