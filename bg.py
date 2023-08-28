@@ -103,16 +103,16 @@ def update(frame):
     ax.plot(x[index_30_percent:], y_complex[index_30_percent:], color='cyan', linewidth=1.2)
     ax.fill_between(x[index_30_percent:], y_lower[index_30_percent:], y_upper[index_30_percent:], color=(0, 1, 1, 0.15), edgecolor=(0, 1, 1), linewidth=0.2)
     
-    num_dots = 500
+    num_dots = 200
     indices = np.random.randint(0, len(x), num_dots)  # Generate random indices
     x_dots = x[indices]
     y_dots = [np.random.uniform(y_lower[i], y_upper[i]) for i in indices]
-    ax.scatter(x_dots[index_30_percent:], y_dots[index_30_percent:], color=(0.93, 0.51, 0.93), edgecolors='none', s=2)  # Cyan color
-    ax.scatter(x_dots[:index_30_percent], y_dots[:index_30_percent], color=(0.93, 0.51, 0.93), edgecolors='none', s=2)  # Violet color
+    ax.scatter(x_dots[index_30_percent:], y_dots[index_30_percent:], color=(1, 1, 1), edgecolors='none', s=3)  # Cyan color
+    ax.scatter(x_dots[:index_30_percent], y_dots[:index_30_percent], color=(1, 1, 1), edgecolors='none', s=3)  # Violet color
     ax.set_ylim(-4, 4)
 
 # Create an animation
-ani = FuncAnimation(fig, update, frames=np.arange(0, 200), repeat=False)
+ani = FuncAnimation(fig, update, frames=np.arange(0, 80), repeat=False)
 
 # Save the animation as a gif
 ani.save('output.gif', writer='imagemagick', fps=10, dpi=150)
