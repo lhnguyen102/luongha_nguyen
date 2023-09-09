@@ -130,10 +130,9 @@ import {
       iconBg: "#E6DEDD",
       date: "July 2022 - Present",
       points: [
-        "Design, develop, and maintain machine learning pipelines.",
-        "Train and operate various models such as time series forecasting, anomaly detection, and reinforcement learning.",
-        "Incorporate human feedback and demonstrations to finetune models.",
-        "Contribute to and drive research initiatives both internally and with external partners.",
+        "Develop end-to-end machine learning pipelines for applications in time series forecasting and anomaly detection.",
+        "Lead the development of vision-based detection algorithms using Reinforcement Learning with Human Feedback (RLHF) techniques.",
+        "Spearhead research initiatives with both industrial and academic partners.",
       ],
     },
     {
@@ -143,8 +142,9 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2022 - Present",
       points: [
-        "Develop an efficient learning paradigm for deep neural networks aimed at improving accuracy and training time.",
-        "Lead the development of the open-source software, pyTAGI, a Python interface connecting to the C++/CUDA backend (cuTAGI) for Bayesian neural networks.",
+        "Lead and coordinate a team of PhDs and postdocs in the collaborative development of an efficient learning paradigm for deep neural networks to enhance accuracy and reduce training time across various learning tasks.",
+        "Lead the technical development of open-source software cuTAGI.",
+        "Lead the development of Python interface for connecting with the C++/CUDA backend.",
       ],
     },
     {
@@ -154,8 +154,8 @@ import {
       iconBg: "#E6DEDD",
       date: "September 2021 - June 2022",
       points: [
-        "Designed and implemented a machine learning-based path planning system for Unmanned Aerial Vehicles (UAVs), significantly improving flight efficiency.",
-        "Developed autonomous control system based on reinforcement learning for Unmanned Aerial Vehicles.",
+        "Developed machine learning-based path planning system to improve UAV flight efficiency.",
+        "Developed an autonomous control system using reinforcement learning for UAVs.",
       ],
     },
     

@@ -67,7 +67,7 @@ const About = () => {
       >
         Outside of my full-time commitments, I'm working on developing an efficient learning method for deep neural networks
         that potentially uses less data, reduces training time, and provides outcome uncertainties vital for informed decision-making. 
-        This work is a collaboration with a research team at <Link to="https://miquelflorensa.github.io" target="_blank" rel="noopener noreferrer" style={styles.blueLinkStyle}>BayesWorks</Link>.
+        This work is a collaboration with a research team at <Link to="https://tagiml.com" target="_blank" rel="noopener noreferrer" style={styles.blueLinkStyle}>BayesWorks</Link>.
       </motion.p>
 
       <motion.p
