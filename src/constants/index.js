@@ -136,7 +136,7 @@ import {
       ],
     },
     {
-      title: "AI/ML Research Associate",
+      title: "AI/ML Applied Research Associate",
       company_name: "Polytechnique Montreal",
       icon: polytechnique,
       iconBg: "#E6DEDD",
@@ -144,7 +144,7 @@ import {
       points: [
         "Lead and coordinate a team of PhDs and postdocs in the collaborative development of an efficient learning paradigm for deep neural networks to enhance accuracy and reduce training time across various learning tasks.",
         "Lead the technical development of open-source software cuTAGI.",
-        "Lead the development of Python interface for connecting with the C++/CUDA backend.",
+        " Lead the technical development of Python interface for integration with the C++/CUDA backend.",
       ],
     },
     {
