@@ -130,7 +130,7 @@ import {
       iconBg: "#E6DEDD",
       date: "July 2022 - Present",
       points: [
-        "Develop end-to-end machine learning pipelines for applications in time series forecasting and anomaly detection,  continually improving accuracy through regular feedback from operators and asset managers.",
+        "Develop end-to-end machine learning pipelines for time series forecasting and anomaly detection, using reinforcement learning with human feedback to continually enhance accuracy through insights from operators and asset managers.",
         "Lead the development of vision-based detection algorithms using reinforcement learning with human feedback.",
         "Spearhead research initiatives with both industrial and academic partners.",
       ],
