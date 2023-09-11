@@ -132,7 +132,7 @@ import {
       points: [
         "Develop end-to-end machine learning pipelines for time series forecasting and anomaly detection, using reinforcement learning with human feedback to continually enhance accuracy through insights from operators and asset managers.",
         "Lead the development of vision-based detection algorithms using reinforcement learning with human feedback.",
-        "Spearhead research initiatives with both industrial and academic partners.",
+        "Collaborate on targeted research projects with key industrial and academic partners for field innovation",
       ],
     },
     {
@@ -142,7 +142,7 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2022 - Present",
       points: [
-        "Lead and coordinate a team of PhDs and postdocs in the collaborative development of an efficient learning paradigm for deep neural networks to enhance accuracy and reduce training time across various learning tasks.",
+        "Lead and coordinate a team of PhDs and postdocs to develop an AI/ML framework, optimizing accuracy and reducing training time in deep neural networks, paving the way for major advancements in various industries.",
         "Lead the technical development of open-source software cuTAGI.",
         " Lead the technical development of Python interface for integration with the C++/CUDA backend.",
       ],
@@ -166,7 +166,7 @@ import {
       iconBg: "#E6DEDD",
       date: "November 2019 - September 2021",
       points: [
-        "Formulated a theoretical approach for modeling uncertainty in neural networks.",
+        "Developed a theory-based approach for modeling uncertainty in deep neural networks, enhancing reliability",
         "Led the development of the C++/CUDA open-source software cuTAGI for modelling uncertaities in deep neural networks.",
         "Implemented and tested the proposed approach on various learning tasks.",
       ],
