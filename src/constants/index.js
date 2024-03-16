@@ -132,7 +132,7 @@ import {
       points: [
         "Develop end-to-end machine learning pipelines for time series forecasting and anomaly detection, using reinforcement learning with human feedback to continually enhance accuracy through insights from operators and asset managers.",
         "Lead the development of vision-based detection algorithms using reinforcement learning with human feedback.",
-        "Collaborate on targeted research projects with key industrial and academic partners for field innovation",
+        "Develop cloud-based tools for automating model training, hyperparameter tuning, and model performance tracking.",
       ],
     },
     {
@@ -168,7 +168,7 @@ import {
       points: [
         "Developed a theory-based approach for modeling uncertainty in deep neural networks, enhancing reliability",
         "Led the development of the C++/CUDA open-source software cuTAGI for modelling uncertaities in deep neural networks.",
-        "Implemented and tested the proposed approach on various learning tasks.",
+        "Develop an open-sourced package BDLM for detecting anomalies in time series.",
       ],
     },
   ];

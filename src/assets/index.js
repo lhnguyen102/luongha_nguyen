@@ -5,7 +5,7 @@ import linkedin from "./linkedin.png";
 import googlescholar from "./google_scholar.png";
 import menu from "./menu.svg";
 import resume from "./resume.png";
-import resumepdf from "./resume_Luong-Ha_Nguyen_2023.pdf";
+import resumepdf from "./resume_Luong-Ha_Nguyen.pdf";
 import close from "./close.svg";
 import docker from "./tech/docker.png";
 import git from "./tech/git.png";
