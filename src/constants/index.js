@@ -224,7 +224,7 @@ const projects = [
   {
     name: "Large Language Model for Finance (WIP)",
     description:
-      "This project is only for educa- tional and learning purposes, focusing on guiding developers on how to build an LLM from scratch and then fine-tune it for different tasks.",
+      "This project is only for educational and learning purposes, focusing on guiding developers on how to build an LLM from scratch and then fine-tune it for different tasks.",
     tags: [
       {
         name: "Python",

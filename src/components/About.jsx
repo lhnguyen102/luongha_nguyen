@@ -55,6 +55,18 @@ const About = () => {
         variants={fadeIn("","", 0.5, 0.75)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
+        Experienced AI/ML Engineer with 3 years in industry and 4 years in applied research. Specializes in developing AI/ML pipelines,
+        from data preprocessing and model development to cloud deployment. Skilled in C++/CUDA, Python, and deep neural networks’ uncertainty modeling. 
+        Combines engineering skills with research insights to deliver robust solutions.
+      </motion.p>
+
+      <motion.p
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        variants={fadeIn("","", 0.5, 0.75)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
         Currently,  I'm working on a framework that helps humans and AI work together to solve real-world problems at <Link to="https://ai-r.com" target="_blank" rel="noopener noreferrer" style={styles.greenLinkStyle}>AI Redefined</Link>.
       </motion.p>
 
