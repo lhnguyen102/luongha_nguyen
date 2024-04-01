@@ -34,6 +34,7 @@ import neural from "./neural.png";
 import python from "./python.png";
 import cplusplus from "./c-.png"
 import tftforecast from './tft_forecast.gif'
+import llmfinancechat from "./llm_finance_chat.gif"
 
 import urllink from "./link.png"
 
@@ -75,4 +76,5 @@ export {
   urllink,
   myphoto,
   tftforecast,
+  llmfinancechat
 };
